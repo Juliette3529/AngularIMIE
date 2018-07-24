@@ -12,4 +12,4 @@
 ## BattlePerso
     - Créer application permettant de creer d'afficher une liste de personnages. 
     - Chaque personnage aura plusieurs caractéristiques :
-    Un prénom, un nom, un âge, une classe, un genre, des points de vie, une valeur d’attaque, de défense et d’armure. Ainsi que     toute autre caractéristique que vous jugerez nécessaire.
+    Un prénom, un nom, un âge, une classe, un genre, des points de vie, une valeur d’attaque, de défense et d’armure.
